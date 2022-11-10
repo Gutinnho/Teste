@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.438c67e9.css",
+    "main.js": "./static/js/main.bb50e650.js",
+    "static/media/CaoEGato.png": "./static/media/CaoEGato.858792cc056bcba8dc4c.png",
+    "static/media/Logo.svg": "./static/media/Logo.e38524ac68eeed476e976c4a614d9f9d.svg",
+    "static/media/FormaNTop.svg": "./static/media/FormaNTop.d2884407334f702efbf713d5180388fe.svg",
+    "static/media/FormaBNormal.svg": "./static/media/FormaBNormal.9198aaf5a2431de6dc4f3d00e9e7f544.svg",
+    "static/media/FormaBReverse.svg": "./static/media/FormaBReverse.eafaee6354db526a9265cb5913325a2f.svg",
+    "index.html": "./index.html",
+    "main.438c67e9.css.map": "./static/css/main.438c67e9.css.map",
+    "main.bb50e650.js.map": "./static/js/main.bb50e650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438c67e9.css",
+    "static/js/main.bb50e650.js"
+  ]
+}
